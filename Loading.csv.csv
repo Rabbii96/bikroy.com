@@ -1,0 +1,17 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1659810161479,8608,HTTP Request,200,OK,Thread Group 1-1,text,true,,215724,349,1,1,https://bikroy.com/,259,0,55
+1659810161479,278,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,848,119,1,1,http://www.bikroy.com/,259,0,55
+1659810161763,27,HTTP Request-1,301,Moved Permanently,Thread Group 1-1,,true,,278,115,1,1,http://bikroy.com/,27,0,13
+1659810161792,8295,HTTP Request-2,200,OK,Thread Group 1-1,text,true,,214598,115,1,1,https://bikroy.com/,8213,0,912
+1659810170091,1367,mobiles,200,OK,Thread Group 1-1,text,true,,443362,635,1,1,https://bikroy.com/bn/ads/bangladesh/mobiles,89,0,0
+1659810170091,90,mobiles-0,301,Moved Permanently,Thread Group 1-1,text,true,,856,127,1,1,http://www.bikroy.com/mobiles/,89,0,0
+1659810170181,26,mobiles-1,301,Moved Permanently,Thread Group 1-1,,true,,286,123,1,1,http://bikroy.com/mobiles/,26,0,0
+1659810170208,87,mobiles-2,301,Moved Permanently,Thread Group 1-1,text,true,,516,123,1,1,https://bikroy.com/mobiles/,87,0,0
+1659810170296,217,mobiles-3,301,Moved Permanently,Thread Group 1-1,text,true,,581,122,1,1,https://bikroy.com/mobiles,217,0,0
+1659810170513,945,mobiles-4,200,OK,Thread Group 1-1,text,true,,441123,140,1,1,https://bikroy.com/bn/ads/bangladesh/mobiles,678,0,0
+1659810171460,1428,electronics,200,OK,Thread Group 1-1,text,true,,465012,655,1,1,https://bikroy.com/bn/ads/bangladesh/electronics,81,0,0
+1659810171460,81,electronics-0,301,Moved Permanently,Thread Group 1-1,text,true,,860,131,1,1,http://www.bikroy.com/electronics/,81,0,0
+1659810171542,12,electronics-1,301,Moved Permanently,Thread Group 1-1,,true,,290,127,1,1,http://bikroy.com/electronics/,12,0,0
+1659810171555,86,electronics-2,301,Moved Permanently,Thread Group 1-1,text,true,,524,127,1,1,https://bikroy.com/electronics/,86,0,0
+1659810171641,305,electronics-3,301,Moved Permanently,Thread Group 1-1,text,true,,589,126,1,1,https://bikroy.com/electronics,305,0,0
+1659810171946,942,electronics-4,200,OK,Thread Group 1-1,text,true,,462749,144,1,1,https://bikroy.com/bn/ads/bangladesh/electronics,616,0,0
