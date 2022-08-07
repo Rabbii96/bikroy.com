@@ -1,6 +1,6 @@
-# Manual-Testing-of-Bikroy.com
-Test Case Writing
+# Load-Testing-of-Bikroy.com
+Load testing using Jmeter
 
 # Content:
-Manual Testing for web application:
-  Manual testing for the registration page, Test case writing, Make report in excel
+Manual Load Testing using Jmeter for web application:
+  Manual Load testing for the Two Browse items by category (Mobiles,Electronics) Make full data report in excel
